@@ -1,0 +1,2 @@
+# ExecInBuildSample
+Unityのビルド時スクリプト実行サンプル
